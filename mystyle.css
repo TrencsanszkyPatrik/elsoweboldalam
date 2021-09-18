@@ -1,0 +1,73 @@
+  body {
+    background-color: rgb(0, 0, 0);
+    background-image: url('https://www.patternpictures.com/wp-content/uploads/Kristal-subtle-glass-white-background-pattern-patternpictures-0220.png');
+    background-repeat: no-repeat;
+  }
+
+  h4 {
+    color: rgb(119, 8, 8);
+    margin-right: 110px;
+  }
+
+
+  p.one {
+
+    border-left: 5px solid red;
+    background-color: gray;
+  }
+
+
+  div.one {
+    max-width: 814px;
+    height: 315px;
+    border-style: 10px solid groove;
+    border: black 10px solid;
+    background-color: powderblue;
+    margin-left: auto;     
+    margin-right: auto;
+  }
+
+  p.three {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+    border: black 2px solid;
+    border-left: 5px solid red;
+    background-color: gray;
+  }
+
+  div.cim {
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(119, 8, 8);
+    border-style: double;
+    border-color: black;
+    background-color: gray; 
+  }
+
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  a {
+    border-style: 10px solid groove;
+    border: powderblue 10px solid;
+    background-color: powderblue;
+    color: powderblue;
+  }
